@@ -23,7 +23,7 @@ const login = () => {
      <input type="submit" value="Login" />
    </form>
    <div v-if="error" class="error">
-     <p>Incorrect! Hint: use tmdb for username and movies for password</p>
+     <p>Incorrect please try again </p>
    </div>
  </div>
  <div>

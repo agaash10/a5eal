@@ -10,6 +10,10 @@
      <h2> what does our website do </h2>
      <p> Our company provides the current trending movies and amazing information about the films.</p>
      <p2> We have created this site to provide confort and ease to you so you dont have to search the internet for the trending movies</p2>
+     <p> for more info please message or call us</p>
+     <p> Movies.wonderland@gmail.com</p>
+     <p>  437-992-4101 </p>
+     
     </footer>
 </template>
 
